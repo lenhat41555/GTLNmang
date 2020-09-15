@@ -1,0 +1,13 @@
+C:\LN\GTLNmang\bin\Debug\netcoreapp3.1\GTLNmang.exe
+C:\LN\GTLNmang\bin\Debug\netcoreapp3.1\GTLNmang.deps.json
+C:\LN\GTLNmang\bin\Debug\netcoreapp3.1\GTLNmang.runtimeconfig.json
+C:\LN\GTLNmang\bin\Debug\netcoreapp3.1\GTLNmang.runtimeconfig.dev.json
+C:\LN\GTLNmang\bin\Debug\netcoreapp3.1\GTLNmang.dll
+C:\LN\GTLNmang\bin\Debug\netcoreapp3.1\GTLNmang.pdb
+C:\LN\GTLNmang\obj\Debug\netcoreapp3.1\GTLNmang.csprojAssemblyReference.cache
+C:\LN\GTLNmang\obj\Debug\netcoreapp3.1\GTLNmang.AssemblyInfoInputs.cache
+C:\LN\GTLNmang\obj\Debug\netcoreapp3.1\GTLNmang.AssemblyInfo.cs
+C:\LN\GTLNmang\obj\Debug\netcoreapp3.1\GTLNmang.csproj.CoreCompileInputs.cache
+C:\LN\GTLNmang\obj\Debug\netcoreapp3.1\GTLNmang.dll
+C:\LN\GTLNmang\obj\Debug\netcoreapp3.1\GTLNmang.pdb
+C:\LN\GTLNmang\obj\Debug\netcoreapp3.1\GTLNmang.genruntimeconfig.cache
